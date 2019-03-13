@@ -1,7 +1,7 @@
 module.exports = {
     devtool:'cheap-module-eval-source-map',
     entry: {
-        index: './index.jsx'
+        index: './src/index.jsx'
     },
     output: {
         path: './dist/',
