@@ -1,0 +1,32 @@
+{
+  "name": "react-source-code-analysis",
+  "version": "1.0.0",
+  "description": "react source node analysis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mxcz213/react-source-code-analysis.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "mxcz213",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mxcz213/react-source-code-analysis/issues"
+  },
+  "homepage": "https://github.com/mxcz213/react-source-code-analysis#readme",
+  "dependencies": {
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1"
+  }
+}
